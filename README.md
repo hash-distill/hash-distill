@@ -22,19 +22,8 @@
 
 <br />
 
-<!-- 1. 精致技术栈图标墙（自动适配深浅模式） -->
-<h3>🛠️ Tech Stack</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,vue,react,tauri,mysql,docker,git,linux&perline=6&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,vue,react,tauri,mysql,docker,git,linux&perline=6&theme=light" />
-  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,vue,react,tauri,mysql,docker,git,linux&perline=6&theme=dark" alt="Tech Stack" />
-</picture>
-
-<br /><br />
-
-<!-- 2. GitHub Stats 统计卡片 -->
-<h3>📊 GitHub Stats</h3>
+<!-- GitHub Stats 统计卡片 -->
+<h3>📈 GitHub Stats</h3>
 
 <p>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hash-distill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f48fb1&icon_color=f48fb1&count_private=true" alt="GitHub Stats" />
@@ -43,7 +32,7 @@
 
 <br />
 
-<!-- 3. 贪吃蛇吃贡献图（自动适配深浅模式） -->
+<!-- 贪吃蛇吃贡献图（自动适配深浅模式） -->
 <h3>🐍 Contribution Snake</h3>
 
 <picture>
