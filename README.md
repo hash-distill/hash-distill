@@ -1,53 +1,23 @@
-<div align="center">
+<img src="./assets/cover.svg" width="100%" alt="hash-distill · NENU · Full-Stack &amp; AI Explorer" />
 
-<!-- 极简动态打字机标题 -->
-<a href="https://github.com/hash-distill">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=F48FB1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+hash-distill;NENU+%7C+Full-Stack+%26+AI+Explorer" alt="Typing SVG" />
-</a>
+[Bilibili](https://space.bilibili.com/671294001) · [Email](mailto:zhanghs233@nenu.edu.cn) &nbsp; <img src="https://komarev.com/ghpvc/?username=hash-distill&amp;label=Views&amp;color=477260&amp;style=flat" alt="Profile views" />
 
-<!-- 小巧精致的社交与联系徽章 -->
-<p>
-  <a href="https://space.bilibili.com/671294001">
-    <img height="18" src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili" />
-  </a>
-  &nbsp;
-  <a href="mailto:zhanghs233@nenu.edu.cn">
-    <img height="18" src="https://img.shields.io/badge/Email-F97316?style=flat&logo=maildotru&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <img height="18" src="https://komarev.com/ghpvc/?username=hash-distill&label=Views&color=475569&style=flat" alt="Profile Views" />
-</p>
+### Tech stack
 
-<br />
+<table>
+  <tr><th align="left" width="150">Backend</th><td width="560">Python · FastAPI · Java · Spring</td></tr>
+  <tr><th align="left">Frontend &amp; desktop</th><td>TypeScript · Vue · React · Tauri</td></tr>
+  <tr><th align="left">Data &amp; tools</th><td>MySQL · Docker · Git · Linux</td></tr>
+</table>
 
-<!-- 1. 精致技术栈图标墙（自动适配深浅模式） -->
-<h3>🛠️ Tech Stack</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,vue,react,tauri,mysql,docker,git,linux&perline=6&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,vue,react,tauri,mysql,docker,git,linux&perline=6&theme=light" />
-  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,vue,react,tauri,mysql,docker,git,linux&perline=6&theme=dark" alt="Tech Stack" />
-</picture>
-
-<br /><br />
-
-<!-- 2. GitHub Stats 统计卡片 -->
-<h3>📊 GitHub Stats</h3>
+### GitHub activity
 
 <p>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=hash-distill&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f48fb1&icon_color=f48fb1&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-distill&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=f48fb1" alt="Top Languages" />
+  <img width="355" align="top" src="https://github-readme-stats.vercel.app/api?username=hash-distill&amp;hide_border=true&amp;title_color=204e40&amp;text_color=364d44&amp;icon_color=41806b&amp;bg_color=F4F6EE&amp;border_radius=12&amp;disable_animations=true&amp;show_icons=true&amp;hide_rank=true&amp;count_private=true&amp;card_width=355&amp;custom_title=Activity&amp;line_height=20" alt="GitHub activity for hash-distill" />
+  <img width="355" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-distill&amp;hide_border=true&amp;title_color=204e40&amp;text_color=364d44&amp;icon_color=41806b&amp;bg_color=F4F6EE&amp;border_radius=12&amp;disable_animations=true&amp;layout=compact&amp;card_width=355&amp;langs_count=6&amp;custom_title=Languages" alt="Most used languages in public repositories" />
 </p>
-
-<br />
-
-<!-- 3. 贪吃蛇吃贡献图（自动适配深浅模式） -->
-<h3>🐍 Contribution Snake</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hash-distill/hash-distill/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hash-distill/hash-distill/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hash-distill/hash-distill/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/hash-distill/hash-distill/output/github-contribution-grid-snake.svg" alt="Animated snake tracing the GitHub contribution calendar" />
 </picture>
-
-</div>
